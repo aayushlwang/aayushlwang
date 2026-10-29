@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Put your cover image at: aayush-gurung-tech/assets/cover.png -->
-  <img src="assets/image.png" alt="Aayush Gurung - Cover" width="720" height="360" style="object-fit: cover;" />
+  <img src="assets/f8b40f07-419b-446d-9c3c-c3fa645048ae.jpg" alt="Aayush Gurung - Cover"  style=";" />
 </p>
 
 # 💫 Hi 👋, I'm Aayush Gurung
