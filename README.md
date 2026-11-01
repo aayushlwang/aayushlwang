@@ -7,6 +7,7 @@
 
 ---
 
+- 🌐 **Portfolio Website:** [aayushgurung.vercel.app](https://aayushgurung.vercel.app) *(Replace with your actual URL)*
 - 🔭 **I’m currently working on:** Full-stack web applications and scalable backend architectures.
 - 🌱 **I’m currently learning:** Advanced system design, database optimization, and API security.
 - 👯 **I’m looking to collaborate on:** Open-source web projects and modern backend services.
